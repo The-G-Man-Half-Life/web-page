@@ -1,4 +1,4 @@
-let newElement = document.createElement('h1');
+let newElement = document.createElement('p');
 
 let textNode = document.createTextNode('Adios tonotos');
 
